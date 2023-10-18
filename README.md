@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jverticelli
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning How to use Moralis to get NFT
 - 📫 How to reach me : jes.verticelli@gmail.com
 
 <!---
